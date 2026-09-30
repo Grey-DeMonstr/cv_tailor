@@ -1,0 +1,13 @@
+Hi,
+
+I'm Sam. I build backend systems, mostly in Python, and since March 2021 I've led the team of 6 behind Larkfield's shipment-tracking API. You want the appointment-booking API for 300 clinics under 200 ms at p95, and you have an appointments table that has outgrown its design. Those are two problems I've already worked on at Larkfield.
+
+The rate-calculation service there was written in PHP and its p95 sat at 900 ms. I rewrote it in Python and the p95 came down to 120 ms. The harder job was the events table. It had reached 400 million rows and the nightly report took 50 minutes. I designed monthly partitioning for it, and the same report now runs in 4 minutes. I gave a talk on partitioning large PostgreSQL tables at the Northdale Python meetup in October 2023.
+
+On incidents, I set up our team's first on-call rotation and incident review process in 2022, and I've been on the rotation one week in six since. Our services run in Docker on AWS ECS. I haven't run Kubernetes in production. On mentoring, I lead 6 engineers now and mentored 3 junior engineers at Pennine Payments between June 2017 and October 2020.
+
+I want to work on systems where a slow query is somebody's actual problem. At Larkfield that's a driver waiting at a gate for a late tracking update. At a clinic I'd expect it's a front desk with a patient standing there. Booking software for independent clinics is the kind of work I'm looking for.
+
+I don't have a long list of buzzwords for you. I can walk you through what I built and what it changed on a call, if that's useful.
+
+Thanks for reading.

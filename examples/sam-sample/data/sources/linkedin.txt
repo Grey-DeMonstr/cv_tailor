@@ -1,0 +1,22 @@
+Sam Sample
+Senior Backend Engineer at Larkfield Freight
+Leeds, England, United Kingdom
+
+Experience
+
+Larkfield Freight — Senior Backend Engineer
+Mar 2021 – Present
+Leading a team of 8 engineers. Shipment tracking, rates, billing integrations.
+
+Pennine Payments — Backend Engineer
+Jun 2017 – Oct 2020
+Settlement systems for card payments.
+
+Education
+Northdale University — BSc Computer Science, 2013 – 2017
+
+Volunteering
+Northdale Python meetup — talk "Partitioning large PostgreSQL tables", October 2023
+
+Languages
+English (native), French (limited working proficiency)

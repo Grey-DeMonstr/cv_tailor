@@ -1,0 +1,13 @@
+Hi,
+
+I'm Sam. I build backend systems, mostly in Python, and for the last few years I've run the team
+behind Larkfield's shipment tracking.
+
+I like work where a slow query is somebody's actual problem. At Larkfield a late tracking update
+means a driver waiting at a gate. That's the kind of thing I want to keep fixing.
+
+I don't have a long list of buzzwords for you. I can tell you what I built and what it changed, and
+I'm happy to go through any of it on a call.
+
+Thanks for reading.
+Sam

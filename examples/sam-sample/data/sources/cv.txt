@@ -1,0 +1,29 @@
+Sam Sample
+Senior Backend Engineer
+Leeds, United Kingdom | sam.sample@example.com | +44 113 496 0123
+
+SUMMARY
+Results-driven backend engineer with a passion for scalable systems.
+
+EXPERIENCE
+
+Larkfield Freight, Leeds — Senior Backend Engineer
+March 2021 – present
+- Lead a team of 6 engineers building the shipment-tracking API (Python, FastAPI).
+- Rewrote the rate-calculation service from PHP to Python; p95 latency fell from 900 ms to 120 ms.
+- Designed monthly partitioning for a 400-million-row PostgreSQL events table; the nightly report
+  went from 50 minutes to 4.
+- Set up the team's first on-call rotation and incident review process in 2022.
+- Services run in Docker on AWS ECS, with RDS and SQS.
+
+Pennine Payments, Manchester — Backend Engineer
+June 2017 – October 2020
+- Built the settlement batch pipeline in Python; it processed 2 million card transactions a day.
+- Moved authentication out of the monolith into its own service.
+- Mentored 3 junior engineers.
+
+EDUCATION
+BSc Computer Science, Northdale University, 2013 – 2017
+
+SKILLS
+Python, FastAPI, PostgreSQL, Redis, RabbitMQ, Docker, AWS (ECS, RDS, SQS), some Go
